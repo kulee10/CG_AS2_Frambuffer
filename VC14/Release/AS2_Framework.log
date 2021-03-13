@@ -1,0 +1,34 @@
+﻿  header_only.cpp
+g:\我的雲端硬碟\junior\cg\107062309_as2_v2\externals\include\tinyobj\tiny_obj_loader.h(1092): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(2263): note: 請參閱 'sscanf' 的宣告
+g:\我的雲端硬碟\junior\cg\107062309_as2_v2\externals\include\tinyobj\tiny_obj_loader.h(1116): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(2263): note: 請參閱 'sscanf' 的宣告
+  main.cpp
+g:\我的雲端硬碟\junior\cg\107062309_as2_v2\source\main.cpp(17): warning C4005: 'deg2rad': 巨集重複定義
+  g:\我的雲端硬碟\junior\cg\107062309_as2_v2\externals\include\include.h(49): note: 請參閱 'deg2rad' 之前的定義
+g:\我的雲端硬碟\junior\cg\107062309_as2_v2\source\main.cpp(218): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 請參閱 'fopen' 的宣告
+g:\我的雲端硬碟\junior\cg\107062309_as2_v2\source\main.cpp(260): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 請參閱 'strcat' 的宣告
+g:\我的雲端硬碟\junior\cg\107062309_as2_v2\source\main.cpp(261): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 請參閱 'strcat' 的宣告
+g:\我的雲端硬碟\junior\cg\107062309_as2_v2\source\main.cpp(392): warning C4305: '=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+g:\我的雲端硬碟\junior\cg\107062309_as2_v2\source\main.cpp(523): warning C4244: '=': 將 'GLint' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+g:\我的雲端硬碟\junior\cg\107062309_as2_v2\source\main.cpp(524): warning C4244: '=': 將 'GLint' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+g:\我的雲端硬碟\junior\cg\107062309_as2_v2\source\main.cpp(528): warning C4244: '=': 將 'GLint' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+g:\我的雲端硬碟\junior\cg\107062309_as2_v2\source\main.cpp(529): warning C4244: '=': 將 'GLint' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+g:\我的雲端硬碟\junior\cg\107062309_as2_v2\source\main.cpp(569): warning C4244: '=': 將 'GLint' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+g:\我的雲端硬碟\junior\cg\107062309_as2_v2\source\main.cpp(674): warning C4018: '<': signed/unsigned 不相符
+g:\我的雲端硬碟\junior\cg\107062309_as2_v2\source\main.cpp(890): warning C4244: '引數': 將 'GLfloat' 轉換為 'GLint'，由於類型不同，可能導致資料遺失
+g:\我的雲端硬碟\junior\cg\107062309_as2_v2\source\main.cpp(932): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+g:\我的雲端硬碟\junior\cg\107062309_as2_v2\source\main.cpp(932): warning C4244: '引數': 將 'GLfloat' 轉換為 'GLint'，由於類型不同，可能導致資料遺失
+g:\我的雲端硬碟\junior\cg\107062309_as2_v2\source\main.cpp(933): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+g:\我的雲端硬碟\junior\cg\107062309_as2_v2\source\main.cpp(933): warning C4244: '引數': 將 'GLfloat' 轉換為 'GLint'，由於類型不同，可能導致資料遺失
+g:\我的雲端硬碟\junior\cg\107062309_as2_v2\source\main.cpp(935): warning C4244: '引數': 將 'GLfloat' 轉換為 'GLint'，由於類型不同，可能導致資料遺失
+g:\我的雲端硬碟\junior\cg\107062309_as2_v2\source\main.cpp(1191): warning C4244: '正在初始化': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+g:\我的雲端硬碟\junior\cg\107062309_as2_v2\source\main.cpp(1195): warning C4244: '-=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+g:\我的雲端硬碟\junior\cg\107062309_as2_v2\source\main.cpp(1200): warning C4244: '-=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+g:\我的雲端硬碟\junior\cg\107062309_as2_v2\source\main.cpp(1216): warning C4244: '引數': 將 'GLfloat' 轉換為 'GLint'，由於類型不同，可能導致資料遺失
+  正在產生程式碼
+g:\�ڪ����ݵw��\junior\cg\107062309_as2_v2\source\main.cpp : fatal error C1083: 無法開啟編譯器中繼檔案: 'G:\我的雲端硬碟\junior\CG\107062309_AS2_v2\VC14\Release\AS2_Framework.ipdb': Permission denied
+LINK : fatal error LNK1257: 無法產生程式碼
